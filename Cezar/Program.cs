@@ -11,8 +11,7 @@ namespace Cezar
     {
         //символы русской азбуки
         const string rusAlfabet = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-        //const string number = "0123456789";
-        //const string engAlfabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
 
         private string CodeEncode(string text, int k)
         {
