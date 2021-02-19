@@ -1,0 +1,6 @@
+C:\Users\201719\Source\Repos\Cezar\Cezar\bin\Debug\Cezar.exe.config
+C:\Users\201719\Source\Repos\Cezar\Cezar\bin\Debug\Cezar.exe
+C:\Users\201719\Source\Repos\Cezar\Cezar\bin\Debug\Cezar.pdb
+C:\Users\201719\Source\Repos\Cezar\Cezar\obj\Debug\Cezar.csprojAssemblyReference.cache
+C:\Users\201719\Source\Repos\Cezar\Cezar\obj\Debug\Cezar.exe
+C:\Users\201719\Source\Repos\Cezar\Cezar\obj\Debug\Cezar.pdb
